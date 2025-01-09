@@ -10,3 +10,6 @@
 
 # membuat halaman sign up
 ![Screenshot](assets/image2.png)
+
+# halaman welcome tapi belom selesai dan seterusnya
+![Screenshot](assets/image3.png)

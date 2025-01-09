@@ -13,14 +13,12 @@ class WelcomePage extends StatelessWidget {
             Text("Keep Moving Up", style: TextStyle(fontSize: 24)),
             SizedBox(height: 20),
             Text("Categories"),
-            // Ganti dengan gambar atau widget kategori sesuai kebutuhan
             Container(
               height: 200,
               child: Image.asset('//assets/1.png'),
             ),
             SizedBox(height: 20),
             Text("Top Courses"),
-            // Ganti dengan gambar atau widget kursus sesuai kebutuhan
             Container(
               height: 200,
               child: Image.asset('assets/image.jpg'),
