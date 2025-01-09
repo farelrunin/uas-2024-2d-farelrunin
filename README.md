@@ -2,6 +2,11 @@
 
 ## FAREL INDRA SYAHPUTRA_362358302171
 
+## membuat halaman home screen
 ![Screenshot](assets/image.png)
-![Screenshot](assets/images/1.png)
-![Screenshot](assets/images/2.png)
+
+# membuat halama sign in
+![Screenshot](assets/images1.png)
+
+# membuat halaman sign up
+![Screenshot](assets/images2.png)
