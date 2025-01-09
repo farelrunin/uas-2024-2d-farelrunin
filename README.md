@@ -6,7 +6,7 @@
 ![Screenshot](assets/image.png)
 
 # membuat halama sign in
-![Screenshot](assets/images1.png)
+![Screenshot](assets/image1.png)
 
 # membuat halaman sign up
-![Screenshot](assets/images2.png)
+![Screenshot](assets/image2.png)
